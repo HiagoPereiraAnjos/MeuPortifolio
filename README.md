@@ -1,7 +1,7 @@
-# Hiago Pereira Portfolio
+# Portfólio Hiago Pereira
 
-## Professional Description
-This repository contains the official portfolio website of Hiago Pereira, a Full Stack Developer focused on delivering professional web systems. The showcased work includes hospitality management solutions, restaurant operations platforms, and commercial landing pages built for real business impact.
+## Descrição Profissional
+Este repositório contém o site oficial de portfólio de Hiago Pereira, desenvolvedor Full Stack focado na construção de sistemas web profissionais. Os projetos apresentados incluem soluções para gestão hoteleira, operação de restaurante e landing pages comerciais com foco em resultado real de negócio.
 
 ## Stack
 - React
@@ -10,17 +10,17 @@ This repository contains the official portfolio website of Hiago Pereira, a Full
 - Vite
 - Motion
 
-## Projects
+## Projetos
 ### Breakfast Control System
-Professional breakfast control system for hotels, including guest validation flows and operational monitoring.
+Sistema profissional de controle de café da manhã para hotéis, com fluxo de validação de hóspedes e monitoramento operacional.
 
 ### Restaurant Management System
-Complete restaurant management platform with POS, cashier flow, and administrative control.
+Plataforma completa de gestão de restaurante, com PDV, fluxo de caixa e controle administrativo.
 
 ### Landing Page A Reis
-Professional landing page designed for clear positioning, performance, and SEO optimization.
+Landing page profissional desenvolvida para posicionamento claro, performance e otimização de SEO.
 
-## Contact
+## Contato
 - Email: Hiago287@hotmail.com
 - WhatsApp: https://api.whatsapp.com/send?text=Ol%C3%A1%20Hiago%2C%20vi%20seu%20portf%C3%B3lio%20e%20gostaria%20de%20falar%20sobre%20um%20projeto.
 
