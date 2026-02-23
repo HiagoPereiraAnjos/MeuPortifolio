@@ -65,8 +65,7 @@ export const PORTFOLIO_DATA = {
   contact: {
     email: "Hiago287@hotmail.com",
     whatsapp:
-      "https://api.whatsapp.com/send?text=Ol%C3%A1%20Hiago%2C%20vi%20seu%20portf%C3%B3lio%20e%20gostaria%20de%20falar%20sobre%20um%20projeto.",
-    github: "https://github.com/HiagoPereiraAnjos",
+      "https://api.whatsapp.com/send?phone=5511960314266&text=Ol%C3%A1%20Hiago%2C%20vi%20seu%20portf%C3%B3lio%20e%20gostaria%20de%20falar%20sobre%20um%20projeto.",
     linkedin:
       "https://www.linkedin.com/in/hiago-pereira-94405721b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
