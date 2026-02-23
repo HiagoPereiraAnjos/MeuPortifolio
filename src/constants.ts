@@ -1,7 +1,7 @@
-﻿export const PORTFOLIO_DATA = {
+export const PORTFOLIO_DATA = {
   name: "Hiago Pereira",
   role: "Especialista em React & Spring Boot",
-  about: "Sou desenvolvedor web focado na criaÃ§Ã£o de sistemas completos e funcionais, com experiÃªncia em React, JavaScript e Spring Boot. JÃ¡ desenvolvi aplicaÃ§Ãµes reais para hotelaria e restaurante, incluindo sistemas de gestÃ£o e plataformas web com deploy em produÃ§Ã£o. Meu objetivo Ã© construir soluÃ§Ãµes modernas, eficientes e com impacto real no negÃ³cio.",
+  about: "Sou desenvolvedor web focado na criação de sistemas completos e funcionais, com experiência em React, JavaScript e Spring Boot. Já desenvolvi aplicações reais para hotelaria e restaurante, incluindo sistemas de gestão e plataformas web com deploy em produção. Meu objetivo é construir soluções modernas, eficientes e com impacto real no negócio.",
   skills: [
     { name: "React", category: "Frontend", icon: "react" },
     { name: "JavaScript", category: "Frontend", icon: "js" },
@@ -65,4 +65,3 @@
     linkedin: "https://www.linkedin.com/in/hiago-pereira-94405721b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
   }
 };
-
