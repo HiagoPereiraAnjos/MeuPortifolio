@@ -366,7 +366,7 @@ export default function App() {
       {/* Projects Section */}
       <section id="projetos" className="py-24">
         <div className="max-w-7xl mx-auto px-6">
-          <SectionTitle subtitle="Solucoes reais para hotelaria, restaurante e plataformas comerciais">
+          <SectionTitle subtitle="Soluções reais para hotelaria, restaurante e plataformas comerciais">
             Projetos
           </SectionTitle>
 
@@ -545,12 +545,12 @@ export default function App() {
                   <Github size={20} className="text-emerald-400" />
                   <span className="font-bold">GitHub</span>
                 </div>
-                <p className="text-sm text-zinc-400">Repositorios e codigo</p>
+                <p className="text-sm text-zinc-400">Repositórios e código</p>
               </a>
             </div>
 
             <a
-              href={`mailto:${PORTFOLIO_DATA.contact.email}?subject=Novo%20projeto&body=Ola%20Hiago%2C%20gostaria%20de%20falar%20sobre%20um%20projeto.`}
+              href={`mailto:${PORTFOLIO_DATA.contact.email}?subject=Novo%20projeto&body=Ol%C3%A1%20Hiago%2C%20gostaria%20de%20falar%20sobre%20um%20projeto.`}
               className="inline-flex w-full sm:w-auto items-center justify-center gap-2 px-8 py-4 bg-emerald-500 text-zinc-950 rounded-2xl font-bold hover:bg-emerald-400 transition-all hover:scale-105 active:scale-95"
             >
               Enviar mensagem

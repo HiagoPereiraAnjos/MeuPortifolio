@@ -22,7 +22,7 @@ Professional landing page designed for clear positioning, performance, and SEO o
 
 ## Contact
 - Email: Hiago287@hotmail.com
-- WhatsApp: https://api.whatsapp.com/send?text=Ola%20Hiago%2C%20vi%20seu%20portfolio%20e%20gostaria%20de%20falar%20sobre%20um%20projeto.
+- WhatsApp: https://api.whatsapp.com/send?text=Ol%C3%A1%20Hiago%2C%20vi%20seu%20portf%C3%B3lio%20e%20gostaria%20de%20falar%20sobre%20um%20projeto.
 
 ## GitHub
 https://github.com/HiagoPereiraAnjos
